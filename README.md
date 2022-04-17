@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alipayan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Asp.net Core
-- 💞️ I’m looking to collaborate on Programming Company
+- 👋 Hi, I’m @alipayan 
+- 👀 interested in programming
+- 🌱 currently learning Asp.net Core
+- 💞️ looking to collaborate on Programming Company
 - 📫 How to reach me ali317152@gmail.com
 
 <!---
